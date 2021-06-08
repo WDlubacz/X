@@ -28,6 +28,6 @@
 18. Wykonać commit o nazwie `Click`, otagować `v0.0.6` oraz wykonać `push` na github
 19. Przechwycić eventy `keydown` w taki sposób, aby dało się "przemieszczać" aktywnym boxem góra/dół/prawo/lewo
 20. Sprawić, że jeżeli wyjdzie się poza zakres `row` lub `cell` - wybrany zostanie cell z przeciwległego brzegu (jak tunele w grze pacman)
-21. Wykonać commit o nazwie `Mousedown`, otagować `v0.0.7` oraz wykonać `push` na github
+21. Wykonać commit o nazwie `Keydown`, otagować `v0.0.7` oraz wykonać `push` na github
 22. Ustawić wartość `columns` na 15 oraz `rows` na 7, sprawdzić czy wszystko działa
 23. Wykonać commit o nazwie `Done`, otagować `v1.0.0` oraz wykonać `push` na github
