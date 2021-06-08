@@ -26,8 +26,9 @@
 16. Wykonać commit o nazwie `Active`, otagować `v0.0.5` oraz wykonać `push` na github
 17. Przechwycić kliknięcie myszą w dane pole w ten sposób, aby została zmieniana wartość zmiennej `active` na kliknięty `cell`
 18. Wykonać commit o nazwie `Click`, otagować `v0.0.6` oraz wykonać `push` na github
-19. Przechwycić eventy `keydown` w taki sposób, aby dało się "przemieszczać" aktywnym boxem góra/dół/prawo/lewo
-20. Sprawić, że jeżeli wyjdzie się poza zakres `row` lub `cell` - wybrany zostanie cell z przeciwległego brzegu (jak tunele w grze pacman)
-21. Wykonać commit o nazwie `Keydown`, otagować `v0.0.7` oraz wykonać `push` na github
-22. Ustawić wartość `columns` na 15 oraz `rows` na 7, sprawdzić czy wszystko działa
-23. Wykonać commit o nazwie `Done`, otagować `v1.0.0` oraz wykonać `push` na github
+19. Dodać tag `tabindex="0"` do `<div id="app">` - w celu możliwości przechwytywania eventów keydown
+20. Przechwycić eventy `keydown` w taki sposób, aby dało się "przemieszczać" aktywnym boxem góra/dół/prawo/lewo
+21. Sprawić, że jeżeli wyjdzie się poza zakres `row` lub `cell` - wybrany zostanie cell z przeciwległego brzegu (jak tunele w grze pacman)
+22. Wykonać commit o nazwie `Keydown`, otagować `v0.0.7` oraz wykonać `push` na github
+23. Ustawić wartość `columns` na 15 oraz `rows` na 7, sprawdzić czy wszystko działa
+24. Wykonać commit o nazwie `Done`, otagować `v1.0.0` oraz wykonać `push` na github
