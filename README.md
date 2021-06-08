@@ -2,7 +2,7 @@
 
 1. Utworzyć **publiczne** repozytorium o nazwie "Kolokwium"
 2. Wewnątrz repozytorium dodać plik `index.html` utworzony na podstawie pliku `index_start.html`
-3. Wykonać pierwszy commit o nazwie `Initial commit` i otagować `v0.0.1`
+3. Wykonać pierwszy commit o nazwie `Initial commit`, otagować `v0.0.1` oraz wykonać `push` na github
 4. Do html'a, a konkretniej `<div id="app">` dopisać `div` (potocznie nazwę go "cell") taki, że:
     - ma mieć klasę `cell`
     - wysokość i szerokość 50px
